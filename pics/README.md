@@ -8,6 +8,6 @@ Ide lehet feltölteni a képeket.
 
 ### Példa kép beszúrására  a wiki oldalon
 
-Ezt a kódot simán beírni a szövegbe, nyilván a file nevét megváltoztatva (01.big.monster.jpg).
+Ezt a kódot simán beírni a szövegbe, nyilván a file nevét megváltoztatva (01.big.monster.jpg).\
 `![](https://github.com/Milky-Ways-Finest/pulp/blob/main/pics/01.big.monster.jpg)`
 
