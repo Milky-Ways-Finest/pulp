@@ -1,5 +1,5 @@
 Ide lehet feltölteni a képeket.
-`Add file` gomb → `Upload file`
+`Add file` gomb → `Upload files`
 
 ### Tanácsok
 - Ne legyen ékezet, vagy space a file nevében
@@ -8,5 +8,6 @@ Ide lehet feltölteni a képeket.
 
 ### Példa kép beszúrására  a wiki oldalon
 
+Ezt a kódot simán beírni a szövegbe, nyilván a file nevét megváltoztatva (01.big.monster.jpg).
 `![](https://github.com/Milky-Ways-Finest/pulp/blob/main/pics/01.big.monster.jpg)`
 
