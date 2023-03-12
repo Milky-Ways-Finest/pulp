@@ -1,5 +1,5 @@
 Ide lehet feltölteni a képeket.
-`Add file` gomb → `Upload files`
+`Add file` gomb → `Upload files` → alul zöld "Commit changes" gomb
 
 ### Tanácsok
 - Ne legyen ékezet, vagy space a file nevében
